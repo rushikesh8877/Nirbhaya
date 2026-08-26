@@ -590,34 +590,6 @@ Coordinates the Auto Call + Alert System, dialing emergency contacts directly vi
 <tr>
 
 <td align="center" width="25%">
-  <img src="https://api.dicebear.com/7.x/initials/svg?seed=Om%20Pachorkar&backgroundColor=8d0fbf"
-       width="100"
-       style="border-radius:50%"/>
-  <br/>
-  <b>Om Pachorkar</b>
-  <br/>
-  <sub>Front-End Developer</sub>
-  <br/>
-  <a href="https://github.com/OmPachorkar">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github"/>
-  </a>
-</td>
-
-<td align="center" width="25%">
-  <img src="https://api.dicebear.com/7.x/initials/svg?seed=Vrinda%20Parjane&backgroundColor=8d0fbf"
-       width="100"
-       style="border-radius:50%"/>
-  <br/>
-  <b>Vrinda Parjane</b>
-  <br/>
-  <sub>Lead Android Developer</sub>
-  <br/>
-  <a href="https://github.com/vrindaparjane">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github"/>
-  </a>
-</td>
-
-<td align="center" width="25%">
   <img src="https://api.dicebear.com/7.x/initials/svg?seed=Rushikesh%20Pingale&backgroundColor=8d0fbf"
        width="100"
        style="border-radius:50%"/>
