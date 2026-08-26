@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "824604324413",
+    "firebase_url": "https://nirbhaya-70568-default-rtdb.firebaseio.com",
+    "project_id": "nirbhaya-70568",
+    "storage_bucket": "nirbhaya-70568.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824604324413:android:a819bb4ee6956ed2c63054",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxsdAyhZtE_iZEbP8S8pXl4PdvLtYAWg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
