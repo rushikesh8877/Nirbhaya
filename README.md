@@ -9,18 +9,18 @@
 <br/>
 
 [![Live Website](https://img.shields.io/badge/Live-Website-8d0fbf?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nirbhaya.unaux.com/index.html)
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikesh8877/Nirbhaya)
 [![License](https://img.shields.io/badge/License-MIT-9d4edd?style=for-the-badge)](#-license)
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE?style=flat-square&color=8d0fbf&label=Stars)
-![Forks](https://img.shields.io/github/forks/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE?style=flat-square&color=8d0fbf&label=Forks)
-![Last Commit](https://img.shields.io/github/last-commit/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE?style=flat-square&color=9d4edd&label=Last%20Commit)
-![Top Language](https://img.shields.io/github/languages/top/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE?style=flat-square&color=9d4edd)
-![Repo Size](https://img.shields.io/github/repo-size/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE?style=flat-square&color=c77dff)
-![Issues](https://img.shields.io/github/issues/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE?style=flat-square&color=c77dff)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=rushikesh8877%2FNIRBHAYA-WOMEN_SAFETY_INTELLIGENCE&label=Visitors&countColor=%238d0fbf&style=flat-square)
+![Stars](https://img.shields.io/github/stars/rushikesh8877/Nirbhaya?style=flat-square&color=8d0fbf&label=Stars)
+![Forks](https://img.shields.io/github/forks/rushikesh8877/Nirbhaya?style=flat-square&color=8d0fbf&label=Forks)
+![Last Commit](https://img.shields.io/github/last-commit/rushikesh8877/Nirbhaya?style=flat-square&color=9d4edd&label=Last%20Commit)
+![Top Language](https://img.shields.io/github/languages/top/rushikesh8877/NirbhayaE?style=flat-square&color=9d4edd)
+![Repo Size](https://img.shields.io/github/repo-size/rushikesh8877/Nirbhaya?style=flat-square&color=c77dff)
+![Issues](https://img.shields.io/github/issues/rushikesh8877/Nirbhaya?style=flat-square&color=c77dff)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=rushikesh8877%2F/Nirbhaya&label=Visitors&countColor=%238d0fbf&style=flat-square)
 
 <br/>
 
@@ -156,8 +156,8 @@ Automatically places an emergency call and dispatches alerts the moment a threat
 </td>
 <td width="33%">
 
-### 📍 Current Location Tracking
-Continuously tracks and shares real-time GPS position, speed, and route data with guardians.
+### 📍 Live Location Tracking
+Continuously tracks and shares real-time GPS position  with guardians.
 
 </td>
 </tr>
@@ -473,7 +473,7 @@ Or simply hit **Run ▶** inside Android Studio on a connected device or emulato
 <div align="center">
 
 [![Live Website](https://img.shields.io/badge/🌐%20Live%20Website-Visit%20Now-8d0fbf?style=for-the-badge)](https://nirbhaya.unaux.com/index.html)
-[![GitHub Repo](https://img.shields.io/badge/💻%20Source%20Code-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE)
+[![GitHub Repo](https://img.shields.io/badge/💻%20Source%20Code-View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/rushikesh8877/Nirbhaya)
 [![Demo Video](https://img.shields.io/badge/▶️%20Demo%20Video-Coming%20Soon-red?style=for-the-badge&logo=youtube)](#)
 
 </div>
@@ -671,8 +671,8 @@ MIT License — free to use, and distribute, for the safety of every woman who s
 <div align="center">
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](#)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Report%20an%20Issue-181717?style=for-the-badge&logo=github)](https://github.com/rushikesh8877/NIRBHAYA-WOMEN_SAFETY_INTELLIGENCE/issues)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshpingle8877@gmail.com)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Report%20an%20Issue-181717?style=for-the-badge&logo=github)](https://github.com/rushikesh8877/Nirbhaya/issues)
 
 </div>
 
